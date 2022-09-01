@@ -9,10 +9,10 @@ The [first](https://www.youtube.com/playlist?list=PLnq5fLsdu5RqPUGq3r4rgyY5m_pM9
 
 ## Sample Images from our Dataset
 
-<img src="/DatasetSamples/sample00.png" width=200><img src="/DatasetSamples/sample01.png" width=200><img src="/DatasetSamples/sample02.png" width=200><img src="/DatasetSamples/sample03.png" width=200><br/>
-<img src="/DatasetSamples/sample04.png" width=200><img src="/DatasetSamples/sample05.png" width=200><img src="/DatasetSamples/sample06.png" width=200><img src="/DatasetSamples/sample07.png" width=200><br/>
-<img src="/DatasetSamples/sample08.png" width=200><img src="/DatasetSamples/sample09.png" width=200><img src="/DatasetSamples/sample10.png" width=200><img src="/DatasetSamples/sample11.png" width=200><br/>
-<img src="/DatasetSamples/sample12.png" width=200><img src="/DatasetSamples/sample13.png" width=200><img src="/DatasetSamples/sample14.png" width=200><img src="/DatasetSamples/sample15.png" width=200><br/>
+<img src="/DatasetSamples/sample00.jpg" width=200><img src="/DatasetSamples/sample01.jpg" width=200><img src="/DatasetSamples/sample02.jpg" width=200><img src="/DatasetSamples/sample03.jpg" width=200><br/>
+<img src="/DatasetSamples/sample04.jpg" width=200><img src="/DatasetSamples/sample05.jpg" width=200><img src="/DatasetSamples/sample06.jpg" width=200><img src="/DatasetSamples/sample07.jpg" width=200><br/>
+<img src="/DatasetSamples/sample08.jpg" width=200><img src="/DatasetSamples/sample09.jpg" width=200><img src="/DatasetSamples/sample10.jpg" width=200><img src="/DatasetSamples/sample11.jpg" width=200><br/>
+<img src="/DatasetSamples/sample12.jpg" width=200><img src="/DatasetSamples/sample13.jpg" width=200><img src="/DatasetSamples/sample14.jpg" width=200><img src="/DatasetSamples/sample15.jpg" width=200><br/>
 
 - The samples presented follow the color scheme: green for the "armed" label, blue for the "unarmed", and red for "gun".
 - Although the images had varying dimensions, we standardized them to 768x480 pixels.
@@ -20,7 +20,7 @@ The [first](https://www.youtube.com/playlist?list=PLnq5fLsdu5RqPUGq3r4rgyY5m_pM9
 
 ## Detections Demo
 
-
+https://user-images.githubusercontent.com/101901295/187836784-5da3b2ce-613b-4431-bb49-cbf76c2365b6.mp4
 
 ## Other Repositories Used
 
