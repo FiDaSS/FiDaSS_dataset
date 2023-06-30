@@ -24,8 +24,6 @@ https://user-images.githubusercontent.com/101901295/187836784-5da3b2ce-613b-4431
 
 ## Other Repositories Used
 
-- [YOLOv7](https://github.com/WongKinYiu/yolov7)
-
-- [YOLOv5](https://github.com/ultralytics/yolov5)
-
 - [FacesDetection](https://github.com/Tencent/FaceDetection-DSFD)
+
+- [PyTracking](https://github.com/visionml/pytracking)
