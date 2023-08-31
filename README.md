@@ -7,6 +7,8 @@ The videos gathered from YouTube to enrich our dataset are available on two play
 The [first](https://www.youtube.com/playlist?list=PLnq5fLsdu5RqPUGq3r4rgyY5m_pM9h3HB) containing 193 videos, and the
 [second](https://www.youtube.com/playlist?list=PLnq5fLsdu5RrVUoLyilkkiL3bvTPr5-VK) containing 201 videos.
 
+The [Tools](https://github.com/FiDaSS/FiDaSS_dataset/tree/main/Tools) folder provides further details about the scripts created to build and manage our dataset, and the [TrainingConfigs](https://github.com/FiDaSS/FiDaSS_dataset/tree/main/TrainingConfigs.md) file provides our experimental results and the respective configuration used to train each model.
+
 ## Languages Included in our Dataset
 Below we present a table with the most frequent languages in videos of our dataset, which can serve as an estimative for the geographical diversity of our dataset.
 | Language   | #Videos |   | Language  | #Videos |   | Language   | #Videos |
