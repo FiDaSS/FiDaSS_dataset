@@ -2,6 +2,9 @@
 
 This directory contains the tools used to create our dataset.
 
+It is important to note that we always process the data as videos first before processing more specific details.
+This guarantees, for example, that data from the same video does not end up in different data splits.
+
 ## Tools' Usage
 
 #### Processing a dataset as individual frames
