@@ -8,16 +8,15 @@ The [first](https://www.youtube.com/playlist?list=PLnq5fLsdu5RqPUGq3r4rgyY5m_pM9
 [second](https://www.youtube.com/playlist?list=PLnq5fLsdu5RrVUoLyilkkiL3bvTPr5-VK) containing 201 videos.
 
 ## Languages Included in our Dataset
-Below we present a table with the most frequent languages in our dataset, except for english.
-| Language   | #Videos |   | Language   | #Videos |   | Language | #Videos |
-|------------|---------|---|------------|---------|---|----------|---------|
-| Somali     | 22      |   | Hungarian  | 10      |   | Swahili  | 4       |
-| Welsh      | 19      |   | Catalan    | 9       |   | Dutch    | 3       |
-| Polish     | 18      |   | Afrikaans  | 7       |   | Spanish  | 3       |
-| Croatian   | 15      |   | Danish     | 6       |   | German   | 3       |
-| Albanian   | 11      |   | Swedish    | 6       |   | Romanian | 3       |
-| Portuguese | 11      |   | Czech      | 6       |   | Finnish  | 3       |
-| Slovenian  | 10      |   | Vietnamese | 5       |   | Others   | 10      |
+Below we present a table with the most frequent languages in videos of our dataset, which can serve as an estimative for the geographical diversity of our dataset.
+| Language   | #Videos |   | Language  | #Videos |   | Language   | #Videos |
+|------------|---------|---|-----------|---------|---|------------|---------|
+| English    | 120     |   | Arabic    | 12      |   | Ukrainian  | 6       |
+| Spanish    | 27      |   | Italian   | 11      |   | Polish     | 3       |
+| Portuguese | 18      |   | Turkish   | 11      |   | Indonesian | 2       |
+| German     | 15      |   | Bulgarian | 8       |   | Albanian   | 2       |
+| Russian    | 14      |   | Dutch     | 7       |   | Hungarian  | 2       |
+| French     | 13      |   | Croatian  | 6       |   | Others     | 14      |
 
 ## Sample Images from our Dataset
 
