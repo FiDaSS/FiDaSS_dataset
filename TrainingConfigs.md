@@ -87,7 +87,22 @@ We used FiDaSS to train five general-purpose state-of-the-art models: YOLOv8, DA
 - Batch Size: 6
 
 #### DAFNe
+- Pretrained model: ResNet50 on ImageNet
+- Base LR: 0.0001
+- Steps: 60000
+- Image Size: 600
+- Batch Size: 24
 
 #### YOLOV
+- Pretrained model: YOLOX-Large on COCO
+- Base LR: 0.001
+- Steps: 60000
+- Image Size: 512
+- Batch Size: 16
 
 #### TransVOD
+- Pretrained model: ResNet50 on ImageNet
+- Base LR: 0.0001
+- Steps: 100000
+- Image Size: 512
+- Batch Size: 24
