@@ -1,6 +1,6 @@
 ## Experimental Results
 
-We used FiDaSS to train five general-purpose state-of-the-art models: YOLOv8, DAFNe, Faster-RCNN, YOLOV, and TransVOD. 
+We used FiDaSS to train five general-purpose state-of-the-art models: YOLOv10, DAFNe, Faster-RCNN, DINO, EVA-02, and TransVOD. 
 
 <table class="tg">
 <thead>
